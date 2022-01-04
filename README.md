@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-:star2: I’m currently working on Alibaba as a FE.
+:star2: I'm working at Alibaba as a FE for 3 years.
 
-:sunrise: I'm focusing on collaboration product.
+:sunrise: focus on collaboration products now.
 
 :smiling_imp: mostly using Typescript and React.
 
-:rice: learning Rust and other interesting things.
+:rice: learning Rust and other interesting things such as crypto world.
