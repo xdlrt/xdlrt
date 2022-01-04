@@ -24,4 +24,4 @@ I'm yeshu.
 
 :smiling_imp: mostly using Typescript and React.
 
-:rice: learning interesting things such as crypto world.
+:rice: learning interesting things.
