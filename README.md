@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm yeshu（也树）.
+I'm yeshu.
 
 :star2: I'm working at Alibaba as a FE for 3 years.
 
