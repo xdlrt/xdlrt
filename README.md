@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 I'm yeshu.
 
-:star2: I'm working at Alibaba as a FE.
+:star2: I'm working at Alibaba as front-end engineer.
 
 :sunrise: focus on collaboration products now.
 
