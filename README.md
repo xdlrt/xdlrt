@@ -20,7 +20,7 @@ I'm yeshu.
 
 :star2: I'm working at Alibaba as front-end engineer.
 
-:sunrise: focus on collaboration products now.
+:sunrise: focus on collaborative products now.
 
 :smiling_imp: mostly using Typescript and React.
 
