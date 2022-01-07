@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 -->
 I'm yeshu.
 
+my blog is [yeshu.cloud](https://yeshu.cloud).
+
 :star2: I'm working at Alibaba as front-end engineer.
 
 :sunrise: focus on collaborative products now.
