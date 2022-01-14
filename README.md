@@ -24,6 +24,6 @@ my blog is [yeshu.cloud](https://yeshu.cloud).
 
 :sunrise: focus on collaborative products now.
 
-:smiling_imp: mostly using Typescript and React.
+🌱 mostly using Typescript and React.
 
-:rice: learning interesting things.
+🔭 learning interesting things.
