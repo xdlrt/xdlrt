@@ -20,7 +20,7 @@ I'm yeshu.
 
 my blog is [yeshu.cloud](https://yeshu.cloud).
 
-:star2: I'm working at Alibaba as front-end engineer.
+:star2: I'm working at Alibaba as a Front-End engineer.
 
 :sunrise: focus on collaborative products now.
 
