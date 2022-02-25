@@ -20,7 +20,7 @@ I'm yeshu.
 
 my blog is [yeshu.cloud](https://yeshu.cloud).
 
-my newsletter is [一颗小树](https://xiaoshu.zhubai.love).
+come and subscribe my newsletter [一颗小树](https://xiaoshu.zhubai.love).
 
 :star2: I'm working at Alibaba as a Front-End engineer.
 
