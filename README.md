@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 -->
 I'm yeshu.
 
-my blog is [yeshu.cloud](https://yeshu.cloud).
-
-come and subscribe my newsletter [一颗小树](https://xiaoshu.zhubai.love).
-
-:star2: I'm working at Alibaba as a Front-End engineer.
+:star2: I'm working at Alibaba as a frontend engineer.
 
 :sunrise: focus on collaborative products now.
 
 🌱 mostly using Typescript and React.
 
-🔭 learning interesting things.
+🔭 interested in open source, investment, Web3, etc.
+
+you can find me in [twitter](https://twitter.com/yeshu_in_future), [blog](https://yeshu.cloud).
+
+you can also subscribe my [newsletter](https://xiaoshu.zhubai.love).
