@@ -24,7 +24,7 @@ I'm yeshu.
 
 🌱 mostly using Typescript and React.
 
-🔭 interested in open source, investment, Web3, etc.
+🔭 interested in open source, investment, Web3.
 
 you can find me in [twitter](https://twitter.com/yeshu_in_future), [blog](https://yeshu.cloud).
 
