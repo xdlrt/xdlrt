@@ -21,5 +21,3 @@ I'm yeshu.
 🔭 interested in Open Source, Investment.
 
 you can find me in [Twitter](https://twitter.com/yeshu_in_future), [Blog](https://yeshu.cloud).
-
-you can also subscribe my [Newsletter](https://xiaoshu.zhubai.love).
