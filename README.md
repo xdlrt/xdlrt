@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 -->
 I'm yeshu.
 
-:star2: I'm working at Alibaba as a frontend engineer.
-
-:sunrise: focus on collaborative products now.
-
 🌱 mostly using Typescript and React.
 
 🔭 interested in Open Source, Investment.
